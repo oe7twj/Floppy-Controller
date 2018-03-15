@@ -5,7 +5,7 @@ This is Hardware Extension for a 1541 Floppy Drive.
 (The 1541 is a retro hardware from Commodore)
 
 
-Nessecary Hardware:
+### Nessecary Hardware:
 * an old 1541 Floppy Drive
 * optionally a Trackduino hardware
 * an arduino Nano [3€]
