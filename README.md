@@ -20,4 +20,4 @@ This is Hardware Extension for a 1541 Floppy Drive.
 * Info Display
 
 
-### How does it work:
+
