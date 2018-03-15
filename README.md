@@ -1,9 +1,9 @@
 # Floppy-Controller
 Controller board for a Commodore 1541 floppy drive
 
+This is Hardware Extension for a 1541 Floppy Drive.
+(The 1541 is a retro hardware from Commodore)
 
-Floppy Controller
-This is Hardware Extension for a 1541 Floppy Drive (The 1541 is a retro hardware from Commodore)
 
 Nessecary Hardware:
 * an old 1541 Floppy Drive
@@ -12,7 +12,7 @@ Nessecary Hardware:
 * an OLED 128x64 display [3€]
 * a Rotary Encoder [1€]
 
-Features:
+### Features:
 
 * Write protection Switch (always, never, auto)
 * ROM selector (switch between up to 4 DOS Kernal)
@@ -20,4 +20,4 @@ Features:
 * Info Display
 
 
-# How does it work:
+### How does it work:
