@@ -1,0 +1,7 @@
+this sketch is the code for the floppy-control.
+
+edit the first lines in this sketch to change the settings.
+- names of the ROM (kernal, charset, BASIC)
+- count of ROM
+- time for reset in ms
+- to do in case of disc change signal
