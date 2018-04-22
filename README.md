@@ -14,8 +14,15 @@ This is Hardware Extension for a 1541 Floppy Drive.
 * optionally a I2C LCD display instead of OLED
 * a Rotary Encoder [1€]
 
+
+## Nessecary Software:
+- Arduino Workbench
+- Arduino Lib: LCD Menu Lib 2: https://github.com/Jomelo/LCDMenuLib2
+- Arduino Lib: U8g2lib: https://github.com/olikraus/u8g2
+
+
 ## Features:
-* Write protection switch (write always, never, auto)
+* Write protection switch (read only, write always, auto)
 * ROM selector (switch between up to 4 DOS Kernal)
 * Select device number from 8 to 11
 * settings are saved in Eprom of the Arduino
